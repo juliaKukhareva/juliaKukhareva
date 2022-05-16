@@ -5,3 +5,4 @@
 - 📫 How to reach me ...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=juliaKukhareva&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![Imgur Image](https://i.imgur.com/NG7qBfD.jpeg)
